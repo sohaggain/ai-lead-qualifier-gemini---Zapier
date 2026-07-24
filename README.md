@@ -1,5 +1,3 @@
-# ai-lead-qualifier-gemini---Zapier
-An AI-powered Zapier automation that captures Typeform submissions, qualifies leads using Gemini AI, scores prospects, stores data in Notion, and automatically routes leads with personalized notifications based on priority.
 # AI Lead Qualifier — Form → Gemini → Score → CRM
 
 > An AI-powered Zapier automation that captures form submissions, uses Google AI Studio (Gemini) to analyze and score each lead, logs qualified leads into Notion as a CRM, and routes them down Hot / Warm / Fallback paths — automatically triggering the right team notification and follow-up email for each tier.
